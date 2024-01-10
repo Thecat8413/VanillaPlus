@@ -11,13 +11,13 @@ hash = "7d3b0183e9e2f58cacbd4cd348c02219033539502094e45ac13f392f1ebfda3e"
 metafile = true
 
 [[files]]
-file = "mods/clean-f3.pw.toml"
-hash = "3e2a375d7a92095e1dab42664979ebaa6818b0cf287073b31e3fc222a9b88323"
+file = "mods/cloth-config.pw.toml"
+hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
+file = "mods/collective.pw.toml"
+hash = "8b0586e77c288b99601842ce66227f1edd6ffb702573b186cdd7140e207b98ac"
 metafile = true
 
 [[files]]
@@ -43,6 +43,16 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
+metafile = true
+
+[[files]]
+file = "mods/gui-clock.pw.toml"
+hash = "e48d0143efce9e65218e48f65ae53a3992caae98bcd687170b4422ee846ba6cc"
+metafile = true
+
+[[files]]
+file = "mods/gui-followers.pw.toml"
+hash = "5fd71a7590bbe577b6683b634df416882654401dbd5df19b0ff85dbd70b2d2aa"
 metafile = true
 
 [[files]]
