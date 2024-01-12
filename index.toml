@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "120aed088006e6849cf0ca2f001eff96cd87527053afd941776ba687eb18e159"
+hash = "4209b7c1f768202b2f70ec5ab499b26ae9d4e73cf1e855099fe5fb23db0512e5"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8ad92515a4d70ba75d0affea314f19274faf06344c835a1b59d21724d011fb34"
+hash = "dce61dc785a16446575cac0c042ded380226ed257eac97d7b53a2952e423086a"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "2e45936710d38114b71ba266902c5a7427c8031ea280f64b9d0b4e25dc88293a"
+hash = "f43c022a952f3d81a8b722897a686f53de82cb953189d5eb17c4049b3fcf1727"
 metafile = true
 
 [[files]]
