@@ -6,8 +6,18 @@ hash = "4209b7c1f768202b2f70ec5ab499b26ae9d4e73cf1e855099fe5fb23db0512e5"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "7d3b0183e9e2f58cacbd4cd348c02219033539502094e45ac13f392f1ebfda3e"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "d3a7764f686bd4c6e44ef7e2ec0581fdefeb9ed3d4aab1db63aa58821a264d61"
 metafile = true
 
 [[files]]
@@ -108,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "92fbfef541293794a06fdc71deedfb86d12fc2f3e5fc42842f94bb9f6a42e2ed"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "2cf4874d258c8c9725fd7790232f9b2f4846ae962dfd8dc6fb63bafccca15d88"
 metafile = true
 
 [[files]]
