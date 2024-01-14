@@ -166,6 +166,11 @@ hash = "fdd25696fa978e719a95eaeda8fd419fff78553f446fbbf509c3985c602be454"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "544c3f52ee5bc050074ab01908485bf2a4d771171e2d706a641c929598968c22"
+metafile = true
+
+[[files]]
 file = "mods/persistent-inventory-search.pw.toml"
 hash = "1d99f45d568148ef63789c1b8f4b8b23e36052086eb445642b1fe856c0e897de"
 metafile = true
