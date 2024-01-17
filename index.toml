@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dce61dc785a16446575cac0c042ded380226ed257eac97d7b53a2952e423086a"
+hash = "25b087e635ab907f000d598b9a6279cc11a2c740063bf10be3adb175104dc23d"
 metafile = true
 
 [[files]]
@@ -88,11 +88,6 @@ metafile = true
 [[files]]
 file = "mods/flighthelper.pw.toml"
 hash = "7e431c4461f779a679e3dfc29698b6b2a106ede121b6584386ed94f6cddbb7a4"
-metafile = true
-
-[[files]]
-file = "mods/gui-clock.pw.toml"
-hash = "e48d0143efce9e65218e48f65ae53a3992caae98bcd687170b4422ee846ba6cc"
 metafile = true
 
 [[files]]
@@ -167,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "544c3f52ee5bc050074ab01908485bf2a4d771171e2d706a641c929598968c22"
+hash = "e92727fdfed28a3b21b38ff0fdba3edae6c4a830a84f7c68f12da18db52af060"
 metafile = true
 
 [[files]]
