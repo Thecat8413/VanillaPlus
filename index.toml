@@ -66,6 +66,21 @@ hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "fb656204c3eb267b4d485f33409a7b6ab2ad10164589e4838ee4175062139c01"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "5a2864946f972b75f08c7c466849d326696d234938ee6391538ed9dfdcc2a7d0"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "c5e846de822236cf20f7f9c2b754aae5530344d4616bee8efd5ad987e8245fe0"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "df7d79acf12a498c7d2c06c80417b14974e321aac61afa7e570b30330aedc764"
 metafile = true
@@ -131,6 +146,11 @@ hash = "cfe29cfca29dbb7e4d357dfad08cea55146c310bfd41a9c58b2dbcc8ae7fa0b5"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "cc5cf9ca8fe4ffbfbbd6a61fd9c4c92eb42acead5f4dd5a17dfcc74d0cd1d4b1"
+metafile = true
+
+[[files]]
 file = "mods/malilib.pw.toml"
 hash = "1f64a0fd8804d7b38014217269964ef7ff41c146b2d4660614390bf4703d0b72"
 metafile = true
@@ -163,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "7c647f3090c57732c32306de0a080ea190ec6562af5dbc2be3e7a9d4cadc8b7c"
+metafile = true
+
+[[files]]
+file = "mods/panda-temple.pw.toml"
+hash = "ff93d46206a4a8784a85274b5de32bd7d9f7fb852ec5257dee6cfa28a122df9f"
 metafile = true
 
 [[files]]
@@ -213,4 +238,69 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "52ae7d824d0e2856df296db16f108d4843a7e1fea3b1769e4678f2e5b6dd991e"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "63986a9d44c6d8533d9f66f99637e6cc6d53d559b447c1a23dec0ad8073358f4"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "8cb52af22b62f1fb608f79967dc72eccdfa9c335a9051c05509bb0a44d8c1d03"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "5ca8392f7c2a2204723fdd74b7c78f20ca9cf1b4fb9b13604d412e00e824cc5d"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "00890a75875018385cfb255b0c7f133955810e45048ab272afa14b5198214b3a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "bd2d58c47ba0a70b61f11c5abb3cb834ba8b0ee51bbb2dc4fb83cfd5df41ca99"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "280af64e38fc4cbab54a9395e14a90cdd11f544a07836ca03a7d4bff82d3396f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "a214ba7886001af8c15dbd50e435bac72250e118558917dd864e29142bf33c89"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "2d491ad859ea9b972aa4badcb00dd01e41badaf10741697347ad035c7ebd54f6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "c1a5f48e24194abc98d8d4715f983144a2bf63e1813f84e886a1f4cc6742a5e5"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "872ede9008f346e048698f1fff71b8b28d1eb5e323049606710589668095126c"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "1f55f47a29637eb5ea941dc6e1579acb5e39d36349e00585b7d4b594318648c4"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "ec4c8d1f84188438627d476af2da9e9e198fd95102cd72dddb618b9aa4a50f89"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "4522b8ca1371cd09908c3d998bd766737a92d7d7805bccb0e9fbc640cbd478ad"
 metafile = true

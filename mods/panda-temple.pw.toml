@@ -1,0 +1,13 @@
+name = "Panda Temple"
+filename = "panda-temple-V1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z0qJSbtP/versions/qTONirD1/panda-temple-V1.jar"
+hash-format = "sha1"
+hash = "4e43868f1fe357ef4e6db385327dacc39969483f"
+
+[update]
+[update.modrinth]
+mod-id = "z0qJSbtP"
+version = "qTONirD1"
