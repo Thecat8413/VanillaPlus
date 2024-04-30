@@ -16,6 +16,16 @@ hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
 metafile = true
 
 [[files]]
+file = "mods/auto-clicker.pw.toml"
+hash = "3cc9141ee0a99f9ea56e604fd0bd0cb6ae91d9f9c3ccf87cda4de9d21333ceef"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "d60f81b96df958697c5ee06e009cbf712312761aebdd369b57c0ba7726743cae"
+metafile = true
+
+[[files]]
 file = "mods/beenfo.pw.toml"
 hash = "75950d95a5b439f64dc046394013429a04544907cb482079663ffb52374b6f07"
 metafile = true
@@ -48,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/cardinalboats.pw.toml"
 hash = "d3d6e6865303a89d41a2bcb1edc91b681c21c8881a75c1e11cd405c5fb57bfa0"
+metafile = true
+
+[[files]]
+file = "mods/client-tweaks.pw.toml"
+hash = "c4dc864579fead25dc0f5dc72bf05a457885fb67a75af42bc01e5dfc736d1a8f"
 metafile = true
 
 [[files]]
@@ -136,6 +151,11 @@ hash = "1f64a0fd8804d7b38014217269964ef7ff41c146b2d4660614390bf4703d0b72"
 metafile = true
 
 [[files]]
+file = "mods/map-in-slot.pw.toml"
+hash = "62b309ea78f6ebe281bee7a28e255944b79344da07dbe328c5da699bbdfae9fe"
+metafile = true
+
+[[files]]
 file = "mods/map-tooltip.pw.toml"
 hash = "9a632f5f26970ffc17b21f2f09b5409d9bf274a42d1a0099d91e865993e6e471"
 metafile = true
@@ -208,4 +228,9 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-zoom.pw.toml"
+hash = "77d6dceca85e49aaa3ac528e846441c0db06b8c1bd4b6e11dad0c7eb4b58347f"
 metafile = true
