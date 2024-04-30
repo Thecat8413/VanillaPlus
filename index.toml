@@ -151,11 +151,6 @@ hash = "1f64a0fd8804d7b38014217269964ef7ff41c146b2d4660614390bf4703d0b72"
 metafile = true
 
 [[files]]
-file = "mods/map-in-slot.pw.toml"
-hash = "62b309ea78f6ebe281bee7a28e255944b79344da07dbe328c5da699bbdfae9fe"
-metafile = true
-
-[[files]]
 file = "mods/map-tooltip.pw.toml"
 hash = "9a632f5f26970ffc17b21f2f09b5409d9bf274a42d1a0099d91e865993e6e471"
 metafile = true
