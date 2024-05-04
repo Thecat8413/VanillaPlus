@@ -229,8 +229,3 @@ metafile = true
 file = "mods/sodium.pw.toml"
 hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
 metafile = true
-
-[[files]]
-file = "mods/vanilla-zoom.pw.toml"
-hash = "77d6dceca85e49aaa3ac528e846441c0db06b8c1bd4b6e11dad0c7eb4b58347f"
-metafile = true
