@@ -61,6 +61,11 @@ hash = "d3d6e6865303a89d41a2bcb1edc91b681c21c8881a75c1e11cd405c5fb57bfa0"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "7a4414a95295f22f036699300878058ddf043659fc95ac1bf1d7f725acb0bc46"
+metafile = true
+
+[[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "c4dc864579fead25dc0f5dc72bf05a457885fb67a75af42bc01e5dfc736d1a8f"
 metafile = true
