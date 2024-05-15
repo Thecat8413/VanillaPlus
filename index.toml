@@ -21,13 +21,18 @@ hash = "ae4f7d2dc621bbaf68ce25da30daf64aa27260a35621d2a26e064f09f048ec51"
 metafile = true
 
 [[files]]
+file = "mods/auto-lectern.pw.toml"
+hash = "acaa5cdc1f02aff8aaf51d4221811cf0b7def1102bbfc18d46a15dff161659d2"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "d61e3c471ae98de472fc40c5a0c3d6dd0b9865f4433b1dc96ade663c72fc5463"
 metafile = true
 
 [[files]]
-file = "mods/beenfo.pw.toml"
-hash = "75950d95a5b439f64dc046394013429a04544907cb482079663ffb52374b6f07"
+file = "mods/beetooltip.pw.toml"
+hash = "b5265c1e7f06421e33f9f6bef62610d5f85ae48e7f5fe3ccb0643ab226142216"
 metafile = true
 
 [[files]]
@@ -37,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "9123da9b16cff303e2eec4ddc964ed28a761cec865ad3dec36b939d53318621d"
+hash = "43a3ae3e208a09927e59b283bbcddb696f42bca7ad065a161926289641f62cbc"
 metafile = true
 
 [[files]]
@@ -77,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "ab1c014ce67654e89af779137bdfd1f6f22888af218f44cf5d83e943d0d5fbc4"
+hash = "5880c8495984f1236b8ce71b3370b31327b380b527d9799b1dcc45c70e538e93"
 metafile = true
 
 [[files]]
@@ -101,8 +106,8 @@ hash = "144c9b2dd530cfdf13dd3757c8eddcf6cfcc9631536dcabdd1378a39c8bdf47b"
 metafile = true
 
 [[files]]
-file = "mods/flighthelper.pw.toml"
-hash = "7e431c4461f779a679e3dfc29698b6b2a106ede121b6584386ed94f6cddbb7a4"
+file = "mods/flightassistant.pw.toml"
+hash = "cb669ea2be9d049780b34e065a24cf7850805b06c9f96d3e02b8bb0102b1f37f"
 metafile = true
 
 [[files]]
@@ -133,11 +138,6 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "1b02ffc524987017adbc0a9413f2b53285f4c55247a0943d7de121c68d714a1f"
-metafile = true
-
-[[files]]
-file = "mods/librarian-trade-finder.pw.toml"
-hash = "e65c5669f8861cc0c75a05f268ded42b7921ac8296888c83f31503e06cf3e0bd"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/pocketwatch.pw.toml"
-hash = "5eac64026e5af2e42378a4da6bfc1a297c3825c3ed00453abc1638a0fc81a60c"
+hash = "168d5256127787647e42bc0592b00b038a5fd7725b4f7a9d6f4741de71cfa56d"
 metafile = true
 
 [[files]]
@@ -203,11 +203,6 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "6001e7980cae0f3f64f1912e213a97de9124eac0823910306dbf47c7cbf79a10"
-metafile = true
-
-[[files]]
-file = "mods/servertick.pw.toml"
-hash = "9d43b5b1e3e33fbb23d29a5516a64b4166bca091f1997b8736fb023cb7c0c991"
 metafile = true
 
 [[files]]
@@ -228,4 +223,9 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0b1a53f585b616faa04cb2bccdb05e67c0fbc1887b209c191d4fb7c91d13cac4"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "00f143ea655549e902548575aff0fbffee69802bfe76a73b35187b05c690af07"
 metafile = true

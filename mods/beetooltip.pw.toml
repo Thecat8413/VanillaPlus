@@ -1,0 +1,13 @@
+name = "Bee Tooltip"
+filename = "beetooltip-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kq3ozTSu/versions/pu18GV0H/beetooltip-1.0.0.jar"
+hash-format = "sha1"
+hash = "39a848561eecbe28d930463b25b41c395f26127d"
+
+[update]
+[update.modrinth]
+mod-id = "Kq3ozTSu"
+version = "pu18GV0H"
