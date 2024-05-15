@@ -151,6 +151,11 @@ hash = "aac087baa5cda20dea324cebd9076991e4802561702b11292d96bdbc6ed15472"
 metafile = true
 
 [[files]]
+file = "mods/map-in-slot.pw.toml"
+hash = "dc7d6c9bf2480f8ef14ac5e4d025f50ecd21089fe86b080aa8efc58f9a21f8fc"
+metafile = true
+
+[[files]]
 file = "mods/map-tooltip.pw.toml"
 hash = "efe25260b3b83d3cb117b23252905a254e70c441d13adf7d34e57895ae1efa6a"
 metafile = true
@@ -187,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/pocketwatch.pw.toml"
-hash = "20717596c4026aa264cfb6b00fe597f8ac1136730cb9e7839f9ad8fb8325f44a"
+hash = "5eac64026e5af2e42378a4da6bfc1a297c3825c3ed00453abc1638a0fc81a60c"
 metafile = true
 
 [[files]]
