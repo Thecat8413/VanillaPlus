@@ -7,12 +7,12 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "7c2ab658cec86b2c7a64cb9778d3b7d038153ea049c25a70718f1d8bb6eb690f"
+hash = "fe48ef33fd4a8d8580fd938b7a6a7c1175aad76e0df0ddf4c12e7acb2f0ea65a"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "39e6075ff7f1f517047915b79293e3fd84a15adcadb0553ce243f9e3f52a4cf0"
+hash = "3e565091004b1892ff28e1a80aac37bae45df7180edf436684e9750c4d3bc155"
 metafile = true
 
 [[files]]
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e401c07af397744ab4e6a6dad4f965c727c0ccbdeb62b7f025ac0be5df89e020"
+hash = "481a2ae98615aa79fa02546b5f30fef3b2a5e85e394a74d17bdb409a82c21269"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "2e45936710d38114b71ba266902c5a7427c8031ea280f64b9d0b4e25dc88293a"
+hash = "46d20551558a3d780ead24c79e2dcee64a89e0fb81996d2017c0c00a8be6e8f3"
 metafile = true
 
 [[files]]
