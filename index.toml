@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "7e51c6403d6638076239bb08284aceb057e9d35411bf9c7edf06ca5ba935ded5"
+hash = "d7dc98c816d6223589517ead6f1f01d7ec01dd5b6e3db88e2ba04883414ae9d1"
 metafile = true
 
 [[files]]
@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "3e565091004b1892ff28e1a80aac37bae45df7180edf436684e9750c4d3bc155"
+hash = "2f16fa49c1e3ae4102e2de61c23c6892a351396c59f8bd0c5231323da9a49603"
 metafile = true
 
 [[files]]
@@ -22,22 +22,22 @@ metafile = true
 
 [[files]]
 file = "mods/auto-lectern.pw.toml"
-hash = "acaa5cdc1f02aff8aaf51d4221811cf0b7def1102bbfc18d46a15dff161659d2"
+hash = "50c5a0200be7b283ff36779d6183ef1dcea09e01f372bb22c1280b30b01bc62f"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "d61e3c471ae98de472fc40c5a0c3d6dd0b9865f4433b1dc96ade663c72fc5463"
+hash = "10aaab565e7d5648b7266b561cd8a4d4f3392c742478335a6cc4f67ec1019ea7"
 metafile = true
 
 [[files]]
 file = "mods/beetooltip.pw.toml"
-hash = "b5265c1e7f06421e33f9f6bef62610d5f85ae48e7f5fe3ccb0643ab226142216"
+hash = "e2c224a1528d67d59dbaa7621fc45b2182c7893c821ee25d8611d907249e327b"
 metafile = true
 
 [[files]]
 file = "mods/bettercommandblockui.pw.toml"
-hash = "442db9ac976463453e1a42d108ad61defaf32f04aba1f6184b05cc3c21d8c24f"
+hash = "1cd045f9e9df649b768e880df52b59d7b0cf5ace5a396bc25c5a43b6badafbe0"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/client-tweaks.pw.toml"
-hash = "1408e0d6ae6426051c24a74bf55ad50cd202e2410cfeea6d082719338ebb5c70"
+hash = "a17a820e2ca4e5f43ad8d9137dbe40c62c40b3b4925778aba53287655ec9cfed"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "b172bf1fb34b3da0fd6a3aa1a47fc86eb9bf908362e2a0edf7bfdd4c7fe85de1"
+hash = "7a259b713933c4028dcc78bec61f6233da520b84633d43009f6effb62f729291"
 metafile = true
 
 [[files]]
@@ -92,12 +92,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "b7e6e46a2d481a911df481f6c694c350fd81da871cd646b13e826bdef3a63081"
+hash = "1e8b1b36d7c3f2d481f57166895a90c94f8e026c135885d36ad675e97f5ab9bf"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a3a4764437d80679d689091a1353277ba29fe8cb609ef2ed5dc6df5572eb1485"
+hash = "7bfd3f90f0f45c957ba2f7a695726cad48ab0c36eae9ac1a4feace483087f232"
 metafile = true
 
 [[files]]
@@ -117,12 +117,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "481a2ae98615aa79fa02546b5f30fef3b2a5e85e394a74d17bdb409a82c21269"
+hash = "3c5c24ba7c1af10c4bd3522efa8d1b89c88352e53382529610f81d50d46f0a32"
 metafile = true
 
 [[files]]
 file = "mods/in-game-account-switcher.pw.toml"
-hash = "936564efc68749bd6f883aa39f0f228d5fa0818833891aaac29ecb0be2c7a336"
+hash = "11b66e68caedb96a20085cf4a2dfd7eafd6e50e2c5d78a6f4c4d090f75e4c9cc"
 metafile = true
 
 [[files]]
@@ -202,17 +202,17 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "6001e7980cae0f3f64f1912e213a97de9124eac0823910306dbf47c7cbf79a10"
+hash = "92d482c7d5c7c82674ce738bfd0d062b53107b7c4a7a8b5de7a9f3efcc731d5c"
 metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "46d20551558a3d780ead24c79e2dcee64a89e0fb81996d2017c0c00a8be6e8f3"
+hash = "c928b6ccb5f44c8d483a794c01728a0afe6a4e5f83a5c19e58a86f19f1952748"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8a613438e6bde7dda4eee037fc1e01cab5afe38ef0076107d3b23cc3f81ed35b"
+hash = "bafa4313d73f7fdea60712a4e9299bf44a5bade5284b2da7f091a1fb61954fe8"
 metafile = true
 
 [[files]]
@@ -227,5 +227,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "00f143ea655549e902548575aff0fbffee69802bfe76a73b35187b05c690af07"
+hash = "2e1466b0fce475c7995b7f52ea6fdc48b58ffa1f3d34b00979d37623cd785fec"
 metafile = true
