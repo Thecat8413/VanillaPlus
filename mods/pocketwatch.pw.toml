@@ -1,14 +1,13 @@
 name = "Pocketwatch"
-filename = "pocketwatch-1.1.1+1.20.5.jar"
+filename = "pocketwatch-1.1.2+1.20.jar"
 side = "client"
-pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/yRNhk5qH/versions/IT9hKhpx/pocketwatch-1.1.1%2B1.20.5.jar"
+url = "https://cdn.modrinth.com/data/yRNhk5qH/versions/H5vkAmdZ/pocketwatch-1.1.2%2B1.20.jar"
 hash-format = "sha1"
-hash = "9f81cad2a3f55d8c286e7c832f8ffbafc1f89798"
+hash = "2aed242bacc15a346f86fbe1872cadb44c999273"
 
 [update]
 [update.modrinth]
 mod-id = "yRNhk5qH"
-version = "IT9hKhpx"
+version = "H5vkAmdZ"

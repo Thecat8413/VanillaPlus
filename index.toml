@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/pocketwatch.pw.toml"
-hash = "168d5256127787647e42bc0592b00b038a5fd7725b4f7a9d6f4741de71cfa56d"
+hash = "a28bdbf6e94faae55cda5898bc062e6aeecdeb95ede85dc83435cddebdc341fc"
 metafile = true
 
 [[files]]
