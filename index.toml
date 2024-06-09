@@ -97,17 +97,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7bfd3f90f0f45c957ba2f7a695726cad48ab0c36eae9ac1a4feace483087f232"
+hash = "6f962ca9d1bd91bc9d5152c1c0dcd47d28260f6fe6b1a0789af0dd83ebedd513"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "144c9b2dd530cfdf13dd3757c8eddcf6cfcc9631536dcabdd1378a39c8bdf47b"
-metafile = true
-
-[[files]]
-file = "mods/flightassistant.pw.toml"
-hash = "cb669ea2be9d049780b34e065a24cf7850805b06c9f96d3e02b8bb0102b1f37f"
 metafile = true
 
 [[files]]
@@ -142,12 +137,12 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "1519a933ad5d377cc6fbe75fa7f316b1989e00112dfc712d23af62b3d4a99a85"
+hash = "b192197125a087db65cb0dbac80fe89db6b6eb6b5b3129e1ffe11fdfeab82216"
 metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "aac087baa5cda20dea324cebd9076991e4802561702b11292d96bdbc6ed15472"
+hash = "f66be8e2a4bde1ddac585cc7dfb4b9b16a3babb095b4f9f130ae7ecebac5c2cb"
 metafile = true
 
 [[files]]

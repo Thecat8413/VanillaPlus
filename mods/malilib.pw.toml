@@ -11,3 +11,7 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4788432
 project-id = 303119
+
+[option]
+optional = true
+description = "Litematicia support libary"
