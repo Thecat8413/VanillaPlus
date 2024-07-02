@@ -1,13 +1,13 @@
 name = "GUI Followers"
-filename = "guifollowers-1.20.6-3.7.jar"
+filename = "guifollowers-1.21.0-3.7.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/hTGmExq6/versions/ntFwHRiF/guifollowers-1.20.6-3.7.jar"
+url = "https://cdn.modrinth.com/data/hTGmExq6/versions/GvyJqK24/guifollowers-1.21.0-3.7.jar"
 hash-format = "sha1"
-hash = "6c004bff6f15c398dfd9d8b800ba346f5fd4b354"
+hash = "166f45bf96a884a2788f7396ce70dbdbc2beddef"
 
 [update]
 [update.modrinth]
 mod-id = "hTGmExq6"
-version = "ntFwHRiF"
+version = "GvyJqK24"
