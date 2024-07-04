@@ -40,6 +40,11 @@ hash = "15c048f5116a6e0df27a05696945eb97b2017052c1b5d023e37ef8d98cf5a7ed"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "5309c13521cd3781aed216c44ab66f87a08eaf10d891fdce05bb7e045f59ea8c"
+metafile = true
+
+[[files]]
 file = "mods/bettercommandblockui.pw.toml"
 hash = "0d1c2ae16cf9f53cbe868ca0c8444618d7f5ddc6ececef3db21bd27d354c263d"
 metafile = true
@@ -105,6 +110,11 @@ hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
 metafile = true
 
 [[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "dc4ef22845aeb2681098eab37f3ca33138287ed3618b3499bc111a456f41eae8"
+metafile = true
+
+[[files]]
 file = "mods/gui-followers.pw.toml"
 hash = "5faee0ee6e0e0c39dc4b2c7660ad478790ccf6a07726b50fe3eec4c73ac501eb"
 metafile = true
@@ -140,6 +150,11 @@ hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
 
 [[files]]
+file = "mods/lighty.pw.toml"
+hash = "102f7e8d7490e1ed36c25db3f1af7d51483806f57f856c2aeb03686594a10417"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "b192197125a087db65cb0dbac80fe89db6b6eb6b5b3129e1ffe11fdfeab82216"
 metafile = true
@@ -162,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "8221d0376bdd5c13684d44ce2dcfc994f4aeea8d21546b9a562e71517ba1ce80"
 metafile = true
 
 [[files]]
