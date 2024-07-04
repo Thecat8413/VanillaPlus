@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "811f4c40c6ae0437e14cf0ccf619b81aa9e51c16f141cf0ba9ace8c3c4fb019f"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "6e4a1ad878793ab3c3b7df30ea8e4177a65c3632d1b35277683d6f6b333cb073"
 metafile = true
@@ -48,11 +52,6 @@ metafile = true
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "5e0adbaf5a22a684b1691eea9a8c4daa6b1eb2b5d821ac83c558ef015d15d51a"
-metafile = true
-
-[[files]]
-file = "mods/brb.pw.toml"
-hash = "7ac8329d2400a72a01f3c9bc0fc9e6367b87bda7901fc536fd1619698c778986"
 metafile = true
 
 [[files]]
@@ -146,11 +145,6 @@ hash = "f66be8e2a4bde1ddac585cc7dfb4b9b16a3babb095b4f9f130ae7ecebac5c2cb"
 metafile = true
 
 [[files]]
-file = "mods/map-in-slot.pw.toml"
-hash = "dc7d6c9bf2480f8ef14ac5e4d025f50ecd21089fe86b080aa8efc58f9a21f8fc"
-metafile = true
-
-[[files]]
 file = "mods/map-tooltip.pw.toml"
 hash = "7903d3643dbbb226096f732adc21013e24f7fddf205e1163c47df1705e1cefa2"
 metafile = true
@@ -166,11 +160,6 @@ hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
 metafile = true
 
 [[files]]
-file = "mods/notifmod.pw.toml"
-hash = "6a0165d9e06f177ff19793dc14714a9326962a55a5a868a59760eaf7e8e94e3e"
-metafile = true
-
-[[files]]
 file = "mods/nvidium.pw.toml"
 hash = "25d0816132441ac49e4711c5f701bf10b12207cb0895d0c06c5f639da158b9bd"
 metafile = true
@@ -183,11 +172,6 @@ metafile = true
 [[files]]
 file = "mods/persistent-inventory-search.pw.toml"
 hash = "43e85d8b8951503570e29e6540b57c0feb117bdb6d2968952c2cf4071cb76a09"
-metafile = true
-
-[[files]]
-file = "mods/pocketwatch.pw.toml"
-hash = "168d5256127787647e42bc0592b00b038a5fd7725b4f7a9d6f4741de71cfa56d"
 metafile = true
 
 [[files]]
