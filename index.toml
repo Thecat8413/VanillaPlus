@@ -40,6 +40,11 @@ hash = "15c048f5116a6e0df27a05696945eb97b2017052c1b5d023e37ef8d98cf5a7ed"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "5309c13521cd3781aed216c44ab66f87a08eaf10d891fdce05bb7e045f59ea8c"
+metafile = true
+
+[[files]]
 file = "mods/bettercommandblockui.pw.toml"
 hash = "0d1c2ae16cf9f53cbe868ca0c8444618d7f5ddc6ececef3db21bd27d354c263d"
 metafile = true
