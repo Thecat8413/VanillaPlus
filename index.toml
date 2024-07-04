@@ -208,3 +208,27 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "7f7768f2047011ed61c9bbec29bbcd2d06c5eb8ab731d442b9ecc2c01bbc8c6b"
 metafile = true
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_MC1.21.x.zip"
+hash = "ea8ed4c8ca8266ce2e61de35f51db9effea252ba56c8681e25471c1e31c22f90"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_MC1.21.x_BushyLeaves.zip"
+hash = "36299e2ef6a16ff750e0f57ff8a27c79ca65a6200528756bfdc4d3bf835142c3"
+
+[[files]]
+file = "shaderpacks/BSL_v8.2.09.zip"
+hash = "b9f9e70c83f04830007ec06e6d7c3e0fafe90c6af53355e4248ab0a59ca1cf48"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.2.1.zip"
+hash = "3eeefb1c7a3bfba61a03f1fbe79eab4d44b375450254ace147877896c7b1765f"
+
+[[files]]
+file = "shaderpacks/VECTOR_v1.3.1.zip"
+hash = "037c2658a852d94801533537ef52b8434be209b4aa9102af329750c01c7350f5"
+
+[[files]]
+file = "shaderpacks/colourSplash.shaders.zip"
+hash = "53c89f871a30d074ca4c8d4c207927d9bd0905bbb4a8322059426c6fd44e6dce"
