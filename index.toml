@@ -140,6 +140,11 @@ hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
 
 [[files]]
+file = "mods/lighty.pw.toml"
+hash = "102f7e8d7490e1ed36c25db3f1af7d51483806f57f856c2aeb03686594a10417"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "b192197125a087db65cb0dbac80fe89db6b6eb6b5b3129e1ffe11fdfeab82216"
 metafile = true
