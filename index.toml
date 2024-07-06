@@ -230,6 +230,11 @@ hash = "280cf7ad4ec95bd95eef81a7f327095c5f40e1b8aa45cea91284bfd19395d69e"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "aada4cd63f86d67e01f89f68f9ae898b423125dbf3caf8487d54666f409cc9db"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "7f7768f2047011ed61c9bbec29bbcd2d06c5eb8ab731d442b9ecc2c01bbc8c6b"
 metafile = true
@@ -241,6 +246,10 @@ hash = "ea8ed4c8ca8266ce2e61de35f51db9effea252ba56c8681e25471c1e31c22f90"
 [[files]]
 file = "resourcepacks/VanillaTweaks_MC1.21.x_BushyLeaves.zip"
 hash = "36299e2ef6a16ff750e0f57ff8a27c79ca65a6200528756bfdc4d3bf835142c3"
+
+[[files]]
+file = "resourcepacks/deep-origins-overlays§8_1-2-2_1-17_1-21.zip"
+hash = "17af52a6b1d484fde2b240fb3d7445bbd9dce0a7840ed1559a34fe161d592487"
 
 [[files]]
 file = "shaderpacks/BSL_v8.2.09.zip"
