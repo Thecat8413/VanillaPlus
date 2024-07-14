@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "11db7dff7557691276a92a874a86534706147cf8723f4281c9762a56e13a4e2d"
+hash = "b8783b269d87c2cc341d64133dbf14e0aa330f3dc7f067630dc71437a4b01879"
 metafile = true
 
 [[files]]
@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "29d7f33e4792af33ee7b4e090280b6d3de5ed4b3d7f8d235c8cac63c5efe383b"
+hash = "5b22c7bb3ecd93b5ed027aee1961da93c3ea2e723e4a9369944ca1c1a633647b"
 metafile = true
 
 [[files]]
@@ -65,8 +65,13 @@ hash = "04be795fbd9b7977281911ae0526de20340e07214562269a47ef991b1c863cd5"
 metafile = true
 
 [[files]]
+file = "mods/build-guide.pw.toml"
+hash = "6d948edb148223cb5e184f1a53f5a95e847e309d03407313d9ef3d4d67d7b0fe"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "02b86828f925b9c077affdcad610425414931c7dbe083fef42e3743acc80f7ab"
+hash = "1af76f25bad7ee8dad72015483d1263170707f2f17bb029557b8051b6136ff05"
 metafile = true
 
 [[files]]
@@ -86,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "947c63ea5ef39acffd205eb16ff3f92f09cca88503def799ab4f814b3de9e46f"
+hash = "8dff71c2fa97a7846c565c934ff5034655343dde1032d1aa379dcfce6df27915"
 metafile = true
 
 [[files]]
@@ -116,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fc96b91acafcbaf76bf94d2dff7d53a53fdbf52ccc6030acbfffe13a365cc982"
+hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
 metafile = true
 
 [[files]]
@@ -156,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "7eccda045631fcacd64fde6a18d9f5471df3ba05b344b21c7b20704395037388"
+hash = "07ba8d1424c0b5602063babac2104b33515c68c420c251e1643dd191596b7b0c"
 metafile = true
 
 [[files]]
@@ -226,17 +231,17 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "395b5c7448764b1cb55cf81aa756756976fd700e70b84ec187743c27ec1340b8"
+hash = "f632c6f98de8644ad2fa0153ab1211bd9f2751fe84620b894ab5f6f558efaae4"
 metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "dc1db56265cfd17b655ccb9b729c99025408c605cfc92ddeab53cd28eb1e1555"
+hash = "865e093fd381d3fd1fedb7074213857a15dddd2ea9af23c0011426224514fee3"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8f541ff641df705e688c2f1f3df042527e8c33e096ab5e62252e6b6c88daba84"
+hash = "79ec58c99084d5b02044e04b6860bc6339868e95e1a8c7a982f5400ee777b178"
 metafile = true
 
 [[files]]
@@ -251,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "aada4cd63f86d67e01f89f68f9ae898b423125dbf3caf8487d54666f409cc9db"
+hash = "afc06fed4e996bf3ad5cf2e8248d1cfc6650d8cae19fc8c6745e41c085c8eb2d"
 metafile = true
 
 [[files]]
