@@ -155,6 +155,11 @@ hash = "ec7ddc7195eaec44adb0a060c48d919bedb82775a3b683f8da21ab2eb6921ab1"
 metafile = true
 
 [[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "69d66eb2faaa6c9d4ca90715c729a25af6df137ce0a12133b6476b8215de7bbf"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "315648c1b6910b274d4a16bda8eba7ddf380d928edb20c0c36f3ff9776e30fe5"
 metafile = true
@@ -230,8 +235,18 @@ hash = "c497424b603b0b9fc190427fd7aa0985d23a74f4cba6c554e14f7dbd29385df2"
 metafile = true
 
 [[files]]
+file = "mods/ridehud.pw.toml"
+hash = "073ca97763698db43e4a1cd40f332a4b5c8a1029191b69775a95a325c91b163b"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "f632c6f98de8644ad2fa0153ab1211bd9f2751fe84620b894ab5f6f558efaae4"
+metafile = true
+
+[[files]]
+file = "mods/serverpingerfixer.pw.toml"
+hash = "50855fdced2ad535c842825b761e62b339168b9ea158e452bdd4f6467a102645"
 metafile = true
 
 [[files]]
@@ -257,6 +272,16 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "afc06fed4e996bf3ad5cf2e8248d1cfc6650d8cae19fc8c6745e41c085c8eb2d"
+metafile = true
+
+[[files]]
+file = "mods/stendhal.pw.toml"
+hash = "6533e7eaad68cad764272e5c4857a075ceb8a149546fec0d16179ba2a1a49fee"
+metafile = true
+
+[[files]]
+file = "mods/vanillaconfig.pw.toml"
+hash = "97f02d1e437693a8135cc701df1447d6ab74d893bc12315e10d79f2dac0d47cd"
 metafile = true
 
 [[files]]

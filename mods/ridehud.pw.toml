@@ -1,0 +1,13 @@
+name = "RideHud"
+filename = "ridehud-1.3.3+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fws3jl2f/versions/8heaofYw/ridehud-1.3.3%2B1.21.jar"
+hash-format = "sha1"
+hash = "fc0d34cf72b3962e11ddbf78a937579575d63451"
+
+[update]
+[update.modrinth]
+mod-id = "Fws3jl2f"
+version = "8heaofYw"
