@@ -16,12 +16,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "b8783b269d87c2cc341d64133dbf14e0aa330f3dc7f067630dc71437a4b01879"
+hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
 metafile = true
 
 [[files]]
 file = "mods/auto-clicker.pw.toml"
-hash = "3779f2f4d12af34c9a3b1301a65a8912b5ed0ad0a93772a39d016476e6c3f480"
+hash = "c482ef3873a8ade424f83cc874c01ae861c5c299359980be1f9163ccc1aa6b33"
 metafile = true
 
 [[files]]
@@ -86,12 +86,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "9a0135fbcfdc8f9efbed49fcb2e5641272ed218553cc37897eea94eb4fe47f1b"
+hash = "d345d14d9672063419184ece254b77a51386160916058bb24a4af7faabc88d99"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "8dff71c2fa97a7846c565c934ff5034655343dde1032d1aa379dcfce6df27915"
+hash = "66de4887711dd677ddf73c852857f7a3c5cb26c4eccec0e0fba2f79ff3a725aa"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "a89158810657bf4a9cae0d45183a2ef5e7e327fb7e4aadb6743a6892370316a8"
+hash = "471ae9c39007497d4c1d3f3f1a85334593ca9fdfb6521093e6faa2c01b74f624"
 metafile = true
 
 [[files]]
@@ -132,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/first-person-model.pw.toml"
 hash = "dc4ef22845aeb2681098eab37f3ca33138287ed3618b3499bc111a456f41eae8"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "26466dd3f9aaaaf89f5090f3486ed371f9d7bf7762f385584ad8cc5bf272308f"
 metafile = true
 
 [[files]]
