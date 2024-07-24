@@ -135,6 +135,11 @@ hash = "dc4ef22845aeb2681098eab37f3ca33138287ed3618b3499bc111a456f41eae8"
 metafile = true
 
 [[files]]
+file = "mods/freecam.pw.toml"
+hash = "26466dd3f9aaaaf89f5090f3486ed371f9d7bf7762f385584ad8cc5bf272308f"
+metafile = true
+
+[[files]]
 file = "mods/gui-followers.pw.toml"
 hash = "5faee0ee6e0e0c39dc4b2c7660ad478790ccf6a07726b50fe3eec4c73ac501eb"
 metafile = true
