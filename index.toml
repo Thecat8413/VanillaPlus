@@ -15,6 +15,16 @@ hash = "633f76611e057f7dd6195a26c54fe8841e30569792e4474e9963d950fbcd17e7"
 metafile = true
 
 [[files]]
+file = "mods/ambient-environment.pw.toml"
+hash = "eb586237c139da61053ce14ea9a8d6cb3124e1731db22963ae79192b59b4c063"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "0543bf0e7d7ac48e221c7e97b55ca7add1c8a1a4b9c5d487688782472fe287b9"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
 metafile = true
@@ -55,6 +65,11 @@ hash = "7c801232a6e7b3930c6c6f47f2c4cd77a539f28bc41e6d54e1710c2736d8a46f"
 metafile = true
 
 [[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "9c699d5d353104ac3f42a20042b3b62f1e22c35bdd47ac3a7c1a0c89eee55b6e"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "5e0adbaf5a22a684b1691eea9a8c4daa6b1eb2b5d821ac83c558ef015d15d51a"
 metafile = true
@@ -80,6 +95,26 @@ hash = "e1939f69f1b60fa7e6760597acdfb4410a9ec8d9c1f21638b5ac93e30f5db766"
 metafile = true
 
 [[files]]
+file = "mods/cave-dust.pw.toml"
+hash = "73b49e93bdc437c2cd86133b5cfb0a04f80264f785ee660ce002bb24e14286c1"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "7ed2158d2715c74dc93716079c029524ffc36680358d0a79757ab1052a04af6c"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "3992f39495d3c9beb3db62f43dd45f9b383471ff4c5e274bcce146090756e672"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "8c3342aeba36b5ff34c10f0ad6c13bbeb7ea4f040683aba80e83776697ceda0d"
+metafile = true
+
+[[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "6a601bbfca4b6310c602cedb7a49a198604dda6d516bcf587622495f5be23421"
 metafile = true
@@ -100,6 +135,11 @@ hash = "0f24f7bd2057b70b6816de4e66922b64f8b6635dc603e40cc45d62646dc7221d"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "0cc365d0b8dc524a0b857c8bd162a478b1f52e5a307f18b32ef8c8091ad29259"
+metafile = true
+
+[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "97ca0b01ac6888486402018e7c95ec3b219a89c3338a416fd25418def5f51fa1"
 metafile = true
@@ -110,13 +150,28 @@ hash = "bcd6ab63410cedbf87e7056337ddf50059655c59a23189520a22eab8419b8415"
 metafile = true
 
 [[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "616c7ca64b9f4af3f5283eaae4cb0be10cff8059e8db9c4e7d7b4422474aa8b1"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "471ae9c39007497d4c1d3f3f1a85334593ca9fdfb6521093e6faa2c01b74f624"
 metafile = true
 
 [[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "9099b858e94f6f81db890c7d46f85601dee71ba33fb7ae19773b8da2ce8c3834"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "f1cfb6d5b1aeae9d349d909fc3170f60332b6347493543a2e4f1f0801f4a5d4d"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "83659a3a4453eecd4d98ba2f7fc52070bcd2ab0d1b31d0cfd2f34bd1baa469e1"
 metafile = true
 
 [[files]]
@@ -210,6 +265,11 @@ hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
 metafile = true
 
 [[files]]
+file = "mods/music-notification.pw.toml"
+hash = "f0db0eea555958035a37acb5c4bdca60f1d9729ad7b6dfd0ae7c4aa991c1c9e1"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "8221d0376bdd5c13684d44ce2dcfc994f4aeea8d21546b9a562e71517ba1ce80"
 metafile = true
@@ -287,6 +347,11 @@ metafile = true
 [[files]]
 file = "mods/vanillaconfig.pw.toml"
 hash = "97f02d1e437693a8135cc701df1447d6ab74d893bc12315e10d79f2dac0d47cd"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "6cb2a4cd4eb40eaf19bbb54a6d8fa23643470147e86e19fe04b820e170998ed3"
 metafile = true
 
 [[files]]
