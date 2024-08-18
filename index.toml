@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "ec7ddc7195eaec44adb0a060c48d919bedb82775a3b683f8da21ab2eb6921ab1"
+hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
 metafile = true
 
 [[files]]
@@ -342,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/stendhal.pw.toml"
 hash = "6533e7eaad68cad764272e5c4857a075ceb8a149546fec0d16179ba2a1a49fee"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "4c84a55911b5fef6db64e256b5168fcd4b7ffd68e905966216f5ae9b2f5b6405"
 metafile = true
 
 [[files]]
