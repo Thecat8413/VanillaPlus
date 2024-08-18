@@ -1,6 +1,7 @@
 name = "MaLiLib"
 filename = "malilib-fabric-1.20.2-0.17.0.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
