@@ -350,11 +350,6 @@ hash = "6533e7eaad68cad764272e5c4857a075ceb8a149546fec0d16179ba2a1a49fee"
 metafile = true
 
 [[files]]
-file = "mods/toms-storage.pw.toml"
-hash = "f632bb72523d51ef1b318399c5172ec397c9327daaa9608917689c210dd5d09f"
-metafile = true
-
-[[files]]
 file = "mods/vanillaconfig.pw.toml"
 hash = "97f02d1e437693a8135cc701df1447d6ab74d893bc12315e10d79f2dac0d47cd"
 metafile = true
