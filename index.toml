@@ -180,6 +180,11 @@ hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
 metafile = true
 
 [[files]]
+file = "mods/fast-trading.pw.toml"
+hash = "84b04b55bec7f7d8591867afd466a64e1651e7577716b6d2e061f58af2227aac"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
 metafile = true
@@ -212,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
+metafile = true
+
+[[files]]
+file = "mods/infinite-trading.pw.toml"
+hash = "6f7ed46b621cb7fc68b4c8746b431072ee07709f434832e34ea5fb33a9c8081b"
 metafile = true
 
 [[files]]
