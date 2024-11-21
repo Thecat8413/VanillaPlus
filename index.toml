@@ -115,6 +115,11 @@ hash = "9e8dcec1f15f2bbcd5fd3e0c9c1ba8f823830d53397ebea4104bc516603b1b82"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "9831c303787202296c85b548c9139a5f2c67471f22bad772a5da55b5859036e3"
+metafile = true
+
+[[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "6a601bbfca4b6310c602cedb7a49a198604dda6d516bcf587622495f5be23421"
 metafile = true
@@ -378,6 +383,10 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "8f2901e97fa4ee7c5814834de67f508bb49951a49ca21d0b4e5c3a761645e537"
 metafile = true
+
+[[files]]
+file = "resourcepacks/EvenBetterEnchants_v2_r1.zip"
+hash = "bf3879bfe3607936248a070037c730082a46556ef2cdfb285e05ac93a88665ea"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_MC1.21.x.zip"
