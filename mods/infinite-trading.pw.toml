@@ -1,13 +1,13 @@
 name = "Infinite Trading"
-filename = "infinitetrading-1.21.1-4.5.jar"
+filename = "infinitetrading-1.21.1-4.6.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/U3eoZT3o/versions/AqPTywmR/infinitetrading-1.21.1-4.5.jar"
+url = "https://cdn.modrinth.com/data/U3eoZT3o/versions/QV78XqMj/infinitetrading-1.21.1-4.6.jar"
 hash-format = "sha1"
-hash = "a276183464747794b39c093b2797dd5815fcc9b9"
+hash = "594bf8a30c6471136a173e08295071c2f59fb6b5"
 
 [update]
 [update.modrinth]
 mod-id = "U3eoZT3o"
-version = "AqPTywmR"
+version = "QV78XqMj"
