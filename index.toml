@@ -280,6 +280,11 @@ hash = "87f32c96066eb295c234effb49f6f5cbd5956316a3a750a3989cfb645b3fd397"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "f7f138d870f8c2c662c47808ffdb8e72f9476d435d9a4612670e4fbe704bde16"
+metafile = true
+
+[[files]]
 file = "mods/music-notification.pw.toml"
 hash = "888e1dbb79478243a31a0fbcd875a4f8454c4becd076416b1267ff5be9e8aed6"
 metafile = true
@@ -362,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/stendhal.pw.toml"
 hash = "6533e7eaad68cad764272e5c4857a075ceb8a149546fec0d16179ba2a1a49fee"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "1f0b8e9bbedffe7a3a09ea070619d00b5daeef9cfe6f3f1f953c32dfa42e671c"
 metafile = true
 
 [[files]]
