@@ -1,13 +1,13 @@
 name = "Fast Trading"
-filename = "fasttrading-0.2.0+1.21.jar"
+filename = "fasttrading-0.2.3+1.21.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ht0RRAt0/versions/7qcTDSTZ/fasttrading-0.2.0%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/Ht0RRAt0/versions/DpQOLtpy/fasttrading-0.2.3%2B1.21.6.jar"
 hash-format = "sha1"
-hash = "6d9b0d7ea71bdf37bdcfa7e9afe6ff005e9c8b85"
+hash = "363bd60a9efee51fcafbb96a54851b6bac30c0c4"
 
 [update]
 [update.modrinth]
 mod-id = "Ht0RRAt0"
-version = "7qcTDSTZ"
+version = "DpQOLtpy"

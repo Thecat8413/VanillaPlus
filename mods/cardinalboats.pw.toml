@@ -1,13 +1,13 @@
 name = "Cardinal Ice Boats"
-filename = "cardinalboats-1.4.2.jar"
+filename = "CardinalIceBoats-fabric-1.21.6-2.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1m9s2ZhL/versions/moEgg10l/cardinalboats-1.4.2.jar"
+url = "https://cdn.modrinth.com/data/1m9s2ZhL/versions/ODyQjYV1/CardinalIceBoats-fabric-1.21.6-2.0.2.jar"
 hash-format = "sha1"
-hash = "f1ccdaf6fa1a4c4501660396bfc9a9a8ea424095"
+hash = "3f51504d5222aa92cc0f4673c266c4057d3c35c8"
 
 [update]
 [update.modrinth]
 mod-id = "1m9s2ZhL"
-version = "moEgg10l"
+version = "ODyQjYV1"

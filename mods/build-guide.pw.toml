@@ -1,13 +1,13 @@
 name = "Build Guide"
-filename = "BuildGuide-1.21-0.4.5.jar"
+filename = "BuildGuide-1.21.8-0.4.7.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/XwBDibES/versions/nsIixhrC/BuildGuide-1.21-0.4.5.jar"
+url = "https://cdn.modrinth.com/data/XwBDibES/versions/FgF2yItb/BuildGuide-1.21.8-0.4.7.jar"
 hash-format = "sha1"
-hash = "5d505c337f09e4bbadbc458653826654c5917666"
+hash = "06cea2b4c03f8ed5dccb4bc9416b9cd724990f9b"
 
 [update]
 [update.modrinth]
 mod-id = "XwBDibES"
-version = "nsIixhrC"
+version = "FgF2yItb"

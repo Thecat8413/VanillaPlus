@@ -1,13 +1,13 @@
 name = "VanillaConfig"
-filename = "vanillaconfig-1.2.11+1.21.jar"
+filename = "vanillaconfig-1.2.14+1.21.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/vtYpD93u/versions/pvEPjXHi/vanillaconfig-1.2.11%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/vtYpD93u/versions/7oboXWl0/vanillaconfig-1.2.14%2B1.21.6.jar"
 hash-format = "sha1"
-hash = "aad1dac76e087b8b190301424c07544770bd507f"
+hash = "008a5f3eda05c167b076dce7d2a2210720e1de0a"
 
 [update]
 [update.modrinth]
 mod-id = "vtYpD93u"
-version = "pvEPjXHi"
+version = "7oboXWl0"
