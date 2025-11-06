@@ -74,11 +74,6 @@ hash = "f62aff8c5dfa82c632d4b39c3071ef8cbe686da76563f15e73a22ea229e372fc"
 metafile = true
 
 [[files]]
-file = "mods/brb.pw.toml"
-hash = "04be795fbd9b7977281911ae0526de20340e07214562269a47ef991b1c863cd5"
-metafile = true
-
-[[files]]
 file = "mods/build-guide.pw.toml"
 hash = "c7ce59159e3c5591ee18217ff79b555ff07f0b3152a301f05b1143dda2c4cf5b"
 metafile = true
