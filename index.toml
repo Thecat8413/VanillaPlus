@@ -185,6 +185,11 @@ hash = "03618cd9a216eb5b4897bffa083b9172c20082f3c2891c21abca7c011c08ac2c"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "44ce91936136fb30c08b2f062e6d92493f1f2cc5a526a8039b54d1ae3f61279c"
+metafile = true
+
+[[files]]
 file = "mods/fast-trading.pw.toml"
 hash = "423ad856deeea3f6c8c5d96988ef5d26ee15866fc3c6d4d06082e267a58c512e"
 metafile = true
