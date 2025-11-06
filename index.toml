@@ -365,6 +365,16 @@ hash = "6533e7eaad68cad764272e5c4857a075ceb8a149546fec0d16179ba2a1a49fee"
 metafile = true
 
 [[files]]
+file = "mods/tick-stabilizer.pw.toml"
+hash = "9698fb46fcab0e58ed102f7cb5ca68e2ea5004ef590ed1567575a86fc1ca21f5"
+metafile = true
+
+[[files]]
+file = "mods/tick-tweaks.pw.toml"
+hash = "1ac679c036b9b5e9e78ae753ff3096220fb4da77391d04a9ce60a190830b934d"
+metafile = true
+
+[[files]]
 file = "mods/vanillaconfig.pw.toml"
 hash = "97f02d1e437693a8135cc701df1447d6ab74d893bc12315e10d79f2dac0d47cd"
 metafile = true
