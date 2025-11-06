@@ -5,6 +5,10 @@ file = "README.md"
 hash = "811f4c40c6ae0437e14cf0ccf619b81aa9e51c16f141cf0ba9ace8c3c4fb019f"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "e3874989db57b0edffffac6233ecec62f54dd81984f5d0815ade9c21b07d8b90"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "798cf0237f9bdd54fd81350b0d97dc92270914f05ffe7f2616163639cd209554"
 metafile = true
@@ -45,16 +49,6 @@ hash = "73c410371e865c6afd83513cc5fdc305e30221e3221a15f2bce101171207ff0c"
 metafile = true
 
 [[files]]
-file = "mods/beetooltip.pw.toml"
-hash = "15c048f5116a6e0df27a05696945eb97b2017052c1b5d023e37ef8d98cf5a7ed"
-metafile = true
-
-[[files]]
-file = "mods/better-ping-display-fabric.pw.toml"
-hash = "5309c13521cd3781aed216c44ab66f87a08eaf10d891fdce05bb7e045f59ea8c"
-metafile = true
-
-[[files]]
 file = "mods/bettercommandblockui.pw.toml"
 hash = "283b960167f234c9f7c4bb30308eebf10e9b1007bd96ea50ae14199e829d9a15"
 metafile = true
@@ -62,6 +56,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "802720b446f815e0b50bb44b773b0dccf465e553959337fa9582a6809b08fe05"
+metafile = true
+
+[[files]]
+file = "mods/betterping.pw.toml"
+hash = "59f6d32ddcccd541d950d428c4e0d8f5356754d42af13576ddc625c0b77020e4"
 metafile = true
 
 [[files]]

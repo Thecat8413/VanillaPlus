@@ -1,0 +1,13 @@
+name = "Better Ping"
+filename = "BetterPing-1.21.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/S1VbwsLf/versions/7MLfzMcx/BetterPing-1.21.9.jar"
+hash-format = "sha1"
+hash = "abccc05143e673f9e77c228d7bd324d8c7eac72f"
+
+[update]
+[update.modrinth]
+mod-id = "S1VbwsLf"
+version = "7MLfzMcx"
