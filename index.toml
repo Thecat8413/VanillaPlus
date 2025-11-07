@@ -154,11 +154,6 @@ hash = "2e92889c099e98d12c49f32f7dc4d231572aaf9ea64e0551d2cef106fe158fa8"
 metafile = true
 
 [[files]]
-file = "mods/eating-animation.pw.toml"
-hash = "9099b858e94f6f81db890c7d46f85601dee71ba33fb7ae19773b8da2ce8c3834"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "f0ac7cd4ca7d0c647c3f4e5c8e4493fca5e21b57b94388626dcda2582b5d0fe9"
 metafile = true
@@ -211,11 +206,6 @@ metafile = true
 [[files]]
 file = "mods/in-game-account-switcher.pw.toml"
 hash = "a1ccf31100eb4b68383f0f78fefe6fcb9001de2fb57a33478cc61f8f8f695a22"
-metafile = true
-
-[[files]]
-file = "mods/indium.pw.toml"
-hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
 metafile = true
 
 [[files]]
@@ -393,6 +383,11 @@ hash = "36299e2ef6a16ff750e0f57ff8a27c79ca65a6200528756bfdc4d3bf835142c3"
 [[files]]
 file = "resourcepacks/deep-origins-overlays§8_1-2-2_1-17_1-21.zip"
 hash = "17af52a6b1d484fde2b240fb3d7445bbd9dce0a7840ed1559a34fe161d592487"
+
+[[files]]
+file = "resourcepacks/no-more-map-markers.pw.toml"
+hash = "78069d2844056b8508ce9abbf4d9a81bdde3e70b3f91c26b504827cc1ebff541"
+metafile = true
 
 [[files]]
 file = "shaderpacks/BSL_v8.2.09.zip"

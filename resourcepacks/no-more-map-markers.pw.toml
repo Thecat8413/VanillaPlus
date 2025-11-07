@@ -1,0 +1,13 @@
+name = "No More Map Markers"
+filename = "NMMM 1.2X.X (Small markers).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y74LLxPu/versions/aK7xiLj6/NMMM%201.2X.X%20%28Small%20markers%29.zip"
+hash-format = "sha1"
+hash = "d871a1435f856cd85b7ada557bd2ad06616679b5"
+
+[update]
+[update.modrinth]
+mod-id = "Y74LLxPu"
+version = "aK7xiLj6"
