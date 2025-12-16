@@ -1,13 +1,13 @@
 name = "Inventory Essentials"
-filename = "inventoryessentials-fabric-1.21.8-21.8.5.jar"
+filename = "inventoryessentials-fabric-1.21.11-21.11.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Boon8xwi/versions/4jQ68obL/inventoryessentials-fabric-1.21.8-21.8.5.jar"
+url = "https://cdn.modrinth.com/data/Boon8xwi/versions/Izex9tkz/inventoryessentials-fabric-1.21.11-21.11.1.jar"
 hash-format = "sha1"
-hash = "3934ddb134032976d43a37326dc78bb5d5f297fe"
+hash = "52dd2db4a7c9e465afca06ac43d451e4d5a42acd"
 
 [update]
 [update.modrinth]
 mod-id = "Boon8xwi"
-version = "4jQ68obL"
+version = "Izex9tkz"
