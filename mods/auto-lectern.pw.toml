@@ -1,13 +1,13 @@
 name = "Auto Lectern"
-filename = "autolec-mc1.21.8-1.0.25.jar"
+filename = "autolec-mc1.21.11-1.0.28.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/V5ymEVfT/versions/7n8LlQH3/autolec-mc1.21.8-1.0.25.jar"
+url = "https://cdn.modrinth.com/data/V5ymEVfT/versions/iqNSgjlr/autolec-mc1.21.11-1.0.28.jar"
 hash-format = "sha1"
-hash = "ee13c5a559fb0095d5c5d817e14eedf1b717a407"
+hash = "9b56d12a6e560639c67cd1be78adfcdf2d7d89a2"
 
 [update]
 [update.modrinth]
 mod-id = "V5ymEVfT"
-version = "7n8LlQH3"
+version = "iqNSgjlr"

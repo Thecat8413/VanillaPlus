@@ -1,13 +1,13 @@
 name = "Auto Clicker"
-filename = "autoclicker-fabric-21.9.0.jar"
+filename = "autoclicker-fabric-21.11.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/r8axuw4u/versions/i8BXjeUh/autoclicker-fabric-21.9.0.jar"
+url = "https://cdn.modrinth.com/data/r8axuw4u/versions/IOrjk4pM/autoclicker-fabric-21.11.0.jar"
 hash-format = "sha1"
-hash = "1ed94dba3136845ac1bbca0ac3a34d73873fcb9d"
+hash = "43d2aa2654288391b010663fbd3551e2451d5743"
 
 [update]
 [update.modrinth]
 mod-id = "r8axuw4u"
-version = "i8BXjeUh"
+version = "IOrjk4pM"

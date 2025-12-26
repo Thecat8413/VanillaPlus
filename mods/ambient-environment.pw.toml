@@ -1,13 +1,13 @@
 name = "Ambient Environment"
-filename = "AmbientEnvironment-fabric-1.21.10-27.0.0.2.jar"
+filename = "AmbientEnvironment-fabric-1.21.11-27.0.0.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/DyTvM1dv/versions/k5WzkdqI/AmbientEnvironment-fabric-1.21.10-27.0.0.2.jar"
+url = "https://cdn.modrinth.com/data/DyTvM1dv/versions/faO2wdYQ/AmbientEnvironment-fabric-1.21.11-27.0.0.1.jar"
 hash-format = "sha1"
-hash = "8e1ead4dddbfffa5231a71c1c81d6abc78095b7b"
+hash = "5f1cf23371b3baf329a05364ac6284e02395f9a6"
 
 [update]
 [update.modrinth]
 mod-id = "DyTvM1dv"
-version = "k5WzkdqI"
+version = "faO2wdYQ"
