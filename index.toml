@@ -49,6 +49,11 @@ hash = "f133a949fb877d6074e84766899719b1a7c0670084e5431d7e7e481397ed7f1c"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric-pr55.pw.toml"
+hash = "ce8d4b10b0cdd80d466926371fa7008bb76b6a028bb16ce018e75e54ddebb8ad"
+metafile = true
+
+[[files]]
 file = "mods/bettercommandblockui.pw.toml"
 hash = "6732aa38939e1bb23fbb759704aca4df545a77d44ab0b81244b5321d0cdfdab3"
 metafile = true
@@ -56,11 +61,6 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c863f304da6fcd6c5504c1a3fe60b58b099705e922e03f039a4004f119788210"
-metafile = true
-
-[[files]]
-file = "mods/betterping.pw.toml"
-hash = "18c25b75a08af2b11ba23099c2828f53594a02d4d1d2c72b7850f77c7aa326a0"
 metafile = true
 
 [[files]]
