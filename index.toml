@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "0950030f39c390ee503fc40e36703c6354a4e841aefb0e1558107014b55c50d4"
+hash = "06a33cfd1f3d665ece74dfef92a7312139c4935ed9be2a25d381d5846d3772a4"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -79,11 +79,6 @@ hash = "ca95fdc873c5b9c56c1b05a0fa22a97cc98e7bd444acf31febe0dffc8146107a"
 metafile = true
 
 [[files]]
-file = "mods/better-ping-display-fabric-pr55.pw.toml"
-hash = "ce8d4b10b0cdd80d466926371fa7008bb76b6a028bb16ce018e75e54ddebb8ad"
-metafile = true
-
-[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "2a50bfe20bb1d40c0416b672010423d23c78a129ecedaf06d23fc7626931c77c"
 metafile = true
@@ -121,11 +116,6 @@ metafile = true
 [[files]]
 file = "mods/cardinalboats.pw.toml"
 hash = "ccced9c9ffeeddd2745d6fc920c0c0146dbf9453e0ce921b2bddbec64d7667d3"
-metafile = true
-
-[[files]]
-file = "mods/cave-dust.pw.toml"
-hash = "ab2176911e5e8c68e4de379f97376675808e6de7ec595d824d5625ede4584919"
 metafile = true
 
 [[files]]
