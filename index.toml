@@ -204,6 +204,11 @@ hash = "7ed8df687dc5d9229b3eabc08e8ef9c0bc3825d0f75736c53c1470adf43b4217"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "87157c8157ecf06bb5aa1ce712e36a93a2d4590d8864cd29c84ef3fffd5526b8"
+metafile = true
+
+[[files]]
 file = "mods/fast-trading.pw.toml"
 hash = "e326dc27562bc2b5ba50df652849c9f9ef90e7d69d23324ec8a4daddaa5cee11"
 metafile = true
@@ -341,11 +346,6 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "6128e4df310174c3a4d950fd008505fb88b3bc341af0d6b087fed90973dc02e4"
-metafile = true
-
-[[files]]
-file = "mods/serverpingerfixer.pw.toml"
-hash = "50855fdced2ad535c842825b761e62b339168b9ea158e452bdd4f6467a102645"
 metafile = true
 
 [[files]]
