@@ -49,8 +49,38 @@ hash = "f133a949fb877d6074e84766899719b1a7c0670084e5431d7e7e481397ed7f1c"
 metafile = true
 
 [[files]]
+file = "mods/bbrb.pw.toml"
+hash = "385e222432de91ed343359ac24e7491f32746b8401e2f1e6678cb9addcfca7aa"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "8f62f899b84a7bf45b8a986b0cd8df81594e0ce4d17ada00a1c7df02ee2bb82d"
+metafile = true
+
+[[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "9811a6112d935561c5d46d4008c97396fa4b56927615e94dbc4e674fc6292177"
+metafile = true
+
+[[files]]
+file = "mods/better-client-enc.pw.toml"
+hash = "708c7cfc3d88630bf126e79b2dd09265b4f0c3b131d5d0ce1e7ebf5b70e11dd9"
+metafile = true
+
+[[files]]
+file = "mods/better-highlighting.pw.toml"
+hash = "ca95fdc873c5b9c56c1b05a0fa22a97cc98e7bd444acf31febe0dffc8146107a"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display-fabric-pr55.pw.toml"
 hash = "ce8d4b10b0cdd80d466926371fa7008bb76b6a028bb16ce018e75e54ddebb8ad"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "2a50bfe20bb1d40c0416b672010423d23c78a129ecedaf06d23fc7626931c77c"
 metafile = true
 
 [[files]]
