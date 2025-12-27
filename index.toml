@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "06a33cfd1f3d665ece74dfef92a7312139c4935ed9be2a25d381d5846d3772a4"
+hash = "db8a0187990d09b2ca07b13989ac7296c7d29e861288480156b1ce32aa3f34b2"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -91,11 +91,6 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "c863f304da6fcd6c5504c1a3fe60b58b099705e922e03f039a4004f119788210"
-metafile = true
-
-[[files]]
-file = "mods/blur-fabric.pw.toml"
-hash = "31100360c769ea7ca107cefa833b0bb0337fbab334103005433f2b2884214481"
 metafile = true
 
 [[files]]
@@ -309,28 +304,13 @@ hash = "abbc4c963076179a455126378a35f5f98938492bd85cce1652d3f5634afcaec9"
 metafile = true
 
 [[files]]
-file = "mods/notifmod.pw.toml"
-hash = "67e1019de7c1ef06c11eb2bdcf34bd11f1a655bfa811914971b44bd1d073f30c"
-metafile = true
-
-[[files]]
 file = "mods/nvidium.pw.toml"
 hash = "4bf4725c5be913048b3b0c6dfcdc1a98ac99baeaeda0d34dde411ab3972fb997"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "5a8266ecf742e57419d77b2ab0a55697243a7f6ea68bf61f3ec1b0e059dec7ed"
-metafile = true
-
-[[files]]
 file = "mods/persistent-inventory-search.pw.toml"
 hash = "3bbf890cd9be863a81f8d7f9a718205c838b55cdc84afd64663ea4a4c2346d87"
-metafile = true
-
-[[files]]
-file = "mods/pocketwatch.pw.toml"
-hash = "ce51eed2e9d2cab1723ef8c80717e5ae3e068e5031b6402db54b33996106d178"
 metafile = true
 
 [[files]]
@@ -386,11 +366,6 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "7dca5b8c595020cdb89f675ec337fe85e6d8cfdd3fc1d74625a057325f224c9a"
-metafile = true
-
-[[files]]
-file = "mods/stendhal.pw.toml"
-hash = "2d39d637f429a57ba5939a53d73f564ec56dceaf9623c2172b04f5687d1c08cd"
 metafile = true
 
 [[files]]
