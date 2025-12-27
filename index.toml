@@ -44,6 +44,11 @@ hash = "cc7ae2a3a4b29e1b7bbdf790b357acf67fb0e9366aa7c703b27fe39db086eae9"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "aff818a1010f31b742e7fa44eab6a8eb88bdd4ef541db0d16d5d01aa9efd0858"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "f133a949fb877d6074e84766899719b1a7c0670084e5431d7e7e481397ed7f1c"
 metafile = true
