@@ -89,11 +89,6 @@ hash = "6732aa38939e1bb23fbb759704aca4df545a77d44ab0b81244b5321d0cdfdab3"
 metafile = true
 
 [[files]]
-file = "mods/betterf3.pw.toml"
-hash = "c863f304da6fcd6c5504c1a3fe60b58b099705e922e03f039a4004f119788210"
-metafile = true
-
-[[files]]
 file = "mods/bobby.pw.toml"
 hash = "545b8f4045b6419bb276e906b611a7d679f7bd61a63c5d87723d10f24bf86e0c"
 metafile = true

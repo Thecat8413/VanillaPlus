@@ -5,6 +5,7 @@ Stendhal
 Pocketwatch / owo
 Notifmod
 Blur+
+BetterF3
 Mods that need adding:
 Tick Tweaks
 Tick Stablizer
