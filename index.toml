@@ -404,6 +404,11 @@ hash = "2d39d637f429a57ba5939a53d73f564ec56dceaf9623c2172b04f5687d1c08cd"
 metafile = true
 
 [[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "c65a37781a8cf888e7cd2c77f24a7cd06de6d29c00fe7485020a5c0641e8ffde"
+metafile = true
+
+[[files]]
 file = "mods/vanillaconfig.pw.toml"
 hash = "8881dd65fd874b305e7c7f394ed467bc34573f2cab1068814c83425686443552"
 metafile = true
