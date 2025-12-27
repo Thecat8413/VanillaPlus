@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "5bacac872ecef334a45f5bbe103902962863f30c84ffcb8e0c14219478082c94"
+hash = "6f93293827ddeb8266e307e8f5b718fbfecef25d3909c26e93a6f3f95fdcec08"
 metafile = true
 
 [[files]]
@@ -296,6 +296,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "249d8e7300c832e8ecd0b155ff38194f43463af0de0d05d3398a1a43b76d64c9"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "b02aeb021b9abace529d62bc2150dc61a11a34441dff70bb0f3a561a10e24775"
 metafile = true
 
 [[files]]
@@ -364,8 +369,18 @@ hash = "612092c1f848434132472dbf6feb3073bfd4d59788ae818bfcfaa9b0ce914df4"
 metafile = true
 
 [[files]]
+file = "mods/simple-hud-enhanced.pw.toml"
+hash = "72441a21e649d603fbfba5d9b636512f97b5feb9c2be707749cd66bb16549e98"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "ac79e30e827a176ea9c016275d085fe858e11ac6a72b46810124d56b151fdc41"
+metafile = true
+
+[[files]]
+file = "mods/simpleelytrahud.pw.toml"
+hash = "eab3445a2fd6c2bb11799a20cda20d60cc0e7c125dfff5bc073e8851a9d0e5b7"
 metafile = true
 
 [[files]]

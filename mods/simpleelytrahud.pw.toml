@@ -1,0 +1,13 @@
+name = "Simple Elytra Hud"
+filename = "SimpleElytraHud-1.7+1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7OQY3NQS/versions/hU3ZXZVz/SimpleElytraHud-1.7%2B1.21.11.jar"
+hash-format = "sha1"
+hash = "dd43c522daae5c2cd07a916da053416596dbdffd"
+
+[update]
+[update.modrinth]
+mod-id = "7OQY3NQS"
+version = "hU3ZXZVz"

@@ -1,0 +1,13 @@
+name = "Simple HUD Enhanced"
+filename = "simple-hud-enhanced+1.21.11-4.7.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PE656UHx/versions/fmvtWlMZ/simple-hud-enhanced%2B1.21.11-4.7.5.jar"
+hash-format = "sha1"
+hash = "79a1f7a7e85acf884e60da7edf6a5c77ef8e99e9"
+
+[update]
+[update.modrinth]
+mod-id = "PE656UHx"
+version = "fmvtWlMZ"

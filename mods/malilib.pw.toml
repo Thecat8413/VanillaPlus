@@ -1,17 +1,13 @@
 name = "MaLiLib"
-filename = "malilib-fabric-1.21.10-0.26.3.jar"
-side = "both"
+filename = "malilib-fabric-1.21.11-0.27.2.jar"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/GcWjdA9I/versions/zghuOVRx/malilib-fabric-1.21.11-0.27.2.jar"
 hash-format = "sha1"
-hash = "11488594330f0e83fa4368739e4bbdb5ba792baa"
-mode = "metadata:curseforge"
+hash = "84956eb8b90c9ed5065aeaaaa7de5e95daf0acdb"
 
 [update]
-[update.curseforge]
-file-id = 7130809
-project-id = 303119
-
-[option]
-optional = true
-description = "Litematicia support libary"
+[update.modrinth]
+mod-id = "GcWjdA9I"
+version = "zghuOVRx"
