@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "811f4c40c6ae0437e14cf0ccf619b81aa9e51c16f141cf0ba9ace8c3c4fb019f"
+hash = "0950030f39c390ee503fc40e36703c6354a4e841aefb0e1558107014b55c50d4"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.pw.toml"
-hash = "1cde844cbf4303c3a6f94ab7e6f23a48c5c5858357d5ebbec8ea000b1fd5602f"
+hash = "ba291ff98c6f39d224085d6d95c6a8c3a0903ac8de4fa6ecaec2b5bd9bddbb8c"
 metafile = true
 
 [[files]]
