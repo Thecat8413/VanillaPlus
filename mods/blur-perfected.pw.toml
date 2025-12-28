@@ -1,0 +1,13 @@
+name = "Blur Perfected"
+filename = "blur-perfected-fabric-1.1.2+1.21.11+1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Dt7yoh6Y/versions/Llzu5ZmJ/blur-perfected-fabric-1.1.2%2B1.21.11%2B1.21.11.jar"
+hash-format = "sha1"
+hash = "427ced9cbeacbb9367fbf8b80dc9eefc5a280101"
+
+[update]
+[update.modrinth]
+mod-id = "Dt7yoh6Y"
+version = "Llzu5ZmJ"

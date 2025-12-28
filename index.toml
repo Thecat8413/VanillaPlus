@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "db8a0187990d09b2ca07b13989ac7296c7d29e861288480156b1ce32aa3f34b2"
+hash = "429e59ea197162883692fd5b044a25483b2951f6d0e24d1f21a7b49f8600349b"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
@@ -86,6 +86,11 @@ metafile = true
 [[files]]
 file = "mods/bettercommandblockui.pw.toml"
 hash = "6732aa38939e1bb23fbb759704aca4df545a77d44ab0b81244b5321d0cdfdab3"
+metafile = true
+
+[[files]]
+file = "mods/blur-perfected.pw.toml"
+hash = "c132a410b0f609368d49ab44f5d97684103ae4cdb651f34a9986860dd8a1f05d"
 metafile = true
 
 [[files]]
